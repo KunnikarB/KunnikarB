@@ -1,38 +1,47 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml3YmY0ZXRyYXNnM3dxaWV4bXdid3hzbzRnY2o1bGlqd3llb3JiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jTHti8z6rjrUZmBgOp/giphy.gif"
 >
+ <br> <br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/kunnikar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div> 
+  <br>
   <a href="https://www.facebook.com/KunnikarB/">
     <img src="https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=white&style=for-the-badge alt="Facebook Badge"/>
   </a>
   
 <img src="https://komarev.com/ghpvc/?username=KunnikarB&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hi, I’m Kunnikar
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 </div>
 
 <div align="center">
+  <h1>
+  Hi, I’m Kunnikar
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlwemw2bG5veXRsYzcxbXBpeHprcHA4cWVicW1sYzN3Nmt2czFjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-</div>
+
 
 ---
+<br>
 
 ### :woman_technologist: About Me :
+<br>
+👀 I’m interested in building web applications.<br>
+🌱 I’m currently learning IT-front end developer at Sundsgården Folkhögskola.<br>
+ 💞️ Coding as a Hobby! Remote Work.<br>
+ 📫 How to reach me: kunnikarbcreative@gmail.com<br>
+<br>
 
-- 👀 I’m interested in building web applications.
-- 🌱 I’m currently learning IT-front end developer at Sundsgården Folkhögskola.
-- 💞️ Coding as a Hobby! Remote Work.
-- 📫 How to reach me: kunnikarbcreative@gmail.com
 
 ---
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
@@ -43,19 +52,29 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<br>
 
 ---
+<br>
 
 ### :fire: My Stats :
+<br>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KunnikarB&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunnikarb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 
 ---
+<br>
+
 
 ### :writing_hand: Blog Posts :
+<br>
 <!-- BLOG-POST-LIST:START -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhsM202bWd5ZDhzZmY0eHl3bm93ZWV3YmF3aG14N28weWl1cml4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5KZi75Jq0oqaFKGQf/giphy.gif" />
 <!-- BLOG-POST-LIST:END -->
-
+</div>
