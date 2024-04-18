@@ -42,6 +42,12 @@
   
 ---
 <br>
+<!-- BLOG-POST-LIST:START -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3MwcG40eTlxNHIydDlzZngyYXJlYnFuOGdiZjcwanUzbTVpN3g4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4KzpjLvJjJknJ5Xuak/giphy.gif" />
+<!-- BLOG-POST-LIST:END -->
+<br> 
+<!-- BLOG-POST-LIST:START -->
+<br>
 
 ### :magnet: Languages and Tools :
 <br>
@@ -77,7 +83,8 @@
 
 ### :love_letter: Posts :
 <br>
-<!-- BLOG-POST-LIST:START -->
+
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhsM202bWd5ZDhzZmY0eHl3bm93ZWV3YmF3aG14N28weWl1cml4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5KZi75Jq0oqaFKGQf/giphy.gif" />
 <!-- BLOG-POST-LIST:END -->
 
