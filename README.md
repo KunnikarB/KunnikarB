@@ -31,9 +31,9 @@
 ### :woman_technologist: About Me :
 <br>
 
--  👀 I’m interested in building web applications.<br>
+-  :cherry_blossom: I’m interested in building web applications.<br>
 -  🌱 I’m currently learning IT-front end developer at Sundsgården Folkhögskola.<br>
--  💞️ Coding as a Hobby! Remote Work.<br>
+-  💞️ Coding as a Hobby! <br>
 -  📫 How to reach me: kunnikarbcreative@gmail.com<br>
 
 <br>
@@ -43,7 +43,7 @@
 ---
 <br>
 
-### :hammer_and_wrench: Languages and Tools :
+### :magnet: Languages and Tools :
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -75,7 +75,7 @@
 <br>
 
 
-### :writing_hand: Blog Posts :
+### :love_letter: Posts :
 <br>
 <!-- BLOG-POST-LIST:START -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhsM202bWd5ZDhzZmY0eHl3bm93ZWV3YmF3aG14N28weWl1cml4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5KZi75Jq0oqaFKGQf/giphy.gif" />
