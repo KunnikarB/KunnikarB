@@ -23,20 +23,23 @@
 </h1>
   <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlwemw2bG5veXRsYzcxbXBpeHprcHA4cWVicW1sYzN3Nmt2czFjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div>
 
 
----
 <br>
 
 ### :woman_technologist: About Me :
 <br>
-👀 I’m interested in building web applications.<br>
-🌱 I’m currently learning IT-front end developer at Sundsgården Folkhögskola.<br>
- 💞️ Coding as a Hobby! Remote Work.<br>
- 📫 How to reach me: kunnikarbcreative@gmail.com<br>
+
+-  👀 I’m interested in building web applications.<br>
+-  🌱 I’m currently learning IT-front end developer at Sundsgården Folkhögskola.<br>
+-  💞️ Coding as a Hobby! Remote Work.<br>
+-  📫 How to reach me: kunnikarbcreative@gmail.com<br>
+
 <br>
 
-
+<div align="center">
+  
 ---
 <br>
 
@@ -54,7 +57,7 @@
 </div>
 <br>
 
----
+
 <br>
 
 ### :fire: My Stats :
@@ -77,4 +80,5 @@
 <!-- BLOG-POST-LIST:START -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhsM202bWd5ZDhzZmY0eHl3bm93ZWV3YmF3aG14N28weWl1cml4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5KZi75Jq0oqaFKGQf/giphy.gif" />
 <!-- BLOG-POST-LIST:END -->
+
 </div>
