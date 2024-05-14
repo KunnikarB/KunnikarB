@@ -36,6 +36,8 @@
 -  💞️ Coding as a Hobby! <br>
 -  📫 How to reach me: kunnikarbcreative@gmail.com<br>
 
+
+
 <br>
 
 <div align="center">
@@ -73,9 +75,13 @@
 
 <br>
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunnikarb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
+![bubble-tea](https://github.com/KunnikarB/KunnikarB/assets/138579856/61a3d5d8-73e3-434f-911c-6f2bf1a2efa0)
 
 ---
 <br>
@@ -87,5 +93,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhsM202bWd5ZDhzZmY0eHl3bm93ZWV3YmF3aG14N28weWl1cml4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5KZi75Jq0oqaFKGQf/giphy.gif" />
 <!-- BLOG-POST-LIST:END -->
+
 
 </div>
