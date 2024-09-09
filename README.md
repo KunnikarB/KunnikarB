@@ -32,7 +32,7 @@
 <br>
 
 -  :cherry_blossom: I’m interested in building web applications.<br>
--  🌱 I’m currently learning Full Stack Bootcamp at Redi.<br>
+-  🌱 I’m currently learning Full Stack Bootcamp at Redi school.<br>
 -  💞️ Coding as a Hobby! <br>
 -  📫 How to reach me: kunnikarbcreative@gmail.com<br>
 
