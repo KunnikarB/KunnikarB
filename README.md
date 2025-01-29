@@ -69,9 +69,6 @@
 <br>
 
 ### :fire: My Stats :
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kunnikarb&theme=violet-dark)](https://git.io/streak-stats)
 
 <br>
 
