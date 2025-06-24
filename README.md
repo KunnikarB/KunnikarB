@@ -1,17 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml3YmY0ZXRyYXNnM3dxaWV4bXdid3hzbzRnY2o1bGlqd3llb3JiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jTHti8z6rjrUZmBgOp/giphy.gif"
->
- <br> <br>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kunnikar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- </div> 
-  <br>
-  
-<img src="https://komarev.com/ghpvc/?username=KunnikarB&style=flat-square&color=blue" alt=""/>
-
-</div>
 
 <div align="center">
   <h1>
@@ -19,23 +6,42 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml3YmY0ZXRyYXNnM3dxaWV4bXdid3hzbzRnY2o1bGlqd3llb3JiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jTHti8z6rjrUZmBgOp/giphy.gif"
+>
+  <br>
+<h3>👩🏻‍💻 About Me : </h3>
+<br>
+<pre>
+  🌸 I’m interested in building web applications.<br>
+  🌱 I’m currently learning Web Design<br>
+  💞️ Coding as a Hobby! <br> 
+</pre> 
+  
+  <div id="badges">
+    
+     📫 How to reach me: kunnikarbcreative@gmail.com 
+  <a href="https://www.linkedin.com/in/kunnikar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   
+ </div>
+  
+  <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlwemw2bG5veXRsYzcxbXBpeHprcHA4cWVicW1sYzN3Nmt2czFjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  
 </div>
 
 
-<br>
+  <br>
+  
+<img src="https://komarev.com/ghpvc/?username=KunnikarB&style=flat-square&color=blue" alt=""/>
 
-### :woman_technologist: About Me :
-<br>
-
--  :cherry_blossom: I’m interested in building web applications.<br>
--  🌱 I’m currently learning Full Stack Bootcamp at Redi school.<br>
--  💞️ Coding as a Hobby! <br>
--  📫 How to reach me: kunnikarbcreative@gmail.com<br>
-
-
+</div>
 
 <br>
+
+
+  
 
 <div align="center">
   
@@ -72,12 +78,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunnikarb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-
-![bubble-tea](https://github.com/KunnikarB/KunnikarB/assets/138579856/61a3d5d8-73e3-434f-911c-6f2bf1a2efa0)
-
----
 <br>
 
+![k-web](https://github.com/user-attachments/assets/b242297a-4792-424e-8527-5858c24af324)
+
+ 
+<br>
 
 ### :love_letter: Posts :
 <br>
@@ -86,5 +92,10 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhsM202bWd5ZDhzZmY0eHl3bm93ZWV3YmF3aG14N28weWl1cml4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5KZi75Jq0oqaFKGQf/giphy.gif" />
 <!-- BLOG-POST-LIST:END -->
 
+ <br> <br>
+
+![bubble-tea](https://github.com/KunnikarB/KunnikarB/assets/138579856/61a3d5d8-73e3-434f-911c-6f2bf1a2efa0)
+
+---
 
 </div>
