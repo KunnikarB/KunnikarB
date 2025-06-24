@@ -8,9 +8,6 @@
   </a>
  </div> 
   <br>
-  <a href="https://www.facebook.com/KunnikarB/">
-    <img src="https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=white&style=for-the-badge alt="Facebook Badge"/>
-  </a>
   
 <img src="https://komarev.com/ghpvc/?username=KunnikarB&style=flat-square&color=blue" alt=""/>
 
